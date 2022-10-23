@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/dickyrhermawan"><img src="https://img.shields.io/badge/-dickyrhermawan-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="https://github.com/dickyhermawan12"><img src="https://img.shields.io/badge/-dickyhermawan12-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
   <a href="https://dickyrh.tech"><img src="https://img.shields.io/badge/-dickyrh.tech-550aff?style=flat&logoColor=white" /></a>
-  <a href="https://www.codewars.com/users/dickyhermawan12/badges/micro"><img src="https://www.codewars.com/users/dickyhermawan12/badges/micro" /></a>
+  <a href="https://www.codewars.com/users/dickyhermawan12"><img src="https://www.codewars.com/users/dickyhermawan12/badges/micro" /></a>
   </kbd>
 </p>
   
