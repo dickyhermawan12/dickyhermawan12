@@ -1,0 +1,15 @@
+# Updates credly badges via @pemtajo's actions
+name: 📛 Update Credly badge
+
+on:
+  workflow_dispatch: # Manual dispatch
+  schedule:
+    # Runs at 0am UTC every day
+    - cron: "0 0 * * *"
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
