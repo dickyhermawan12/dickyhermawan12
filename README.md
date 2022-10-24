@@ -1,4 +1,4 @@
-<h1 align="center">Sup! I'm Dicky 👋</h1>
+<h1 align="center">Hi there, I'm Dicky 👋</h1>
 
 <p align="center">
    <kbd>
@@ -17,9 +17,9 @@
 <!-- About Section -->
 ## About Me
 
-Interested in Cloud Computing, DevOps, InfraOps, Automation, and Web Development.
+Interested in Cloud Computing, DevOps, InfraOps, IT Automation, and Web Development.
 
-Feel free to reach out anytime, seriously. 😉
+Feel free to reach out to me anytime, seriously. 😉
 
 <!-- Tech Stack -->  
 ## Tech Stack
