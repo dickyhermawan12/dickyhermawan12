@@ -5,7 +5,7 @@ on:
   workflow_dispatch: # Manual dispatch
   schedule:
     # Runs at 0am UTC every day
-    - cron: "0 0 * * *"
+    - cron: "0 0 1/10 * *"
 jobs:
   update-readme:
     name: Update Readme with badges
@@ -13,3 +13,7 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
+          COMMIT_MESSAGE: ":badge: Updates New Badges"
+          CREDLY_SORT: POPULAR
