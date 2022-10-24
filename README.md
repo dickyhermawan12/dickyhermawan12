@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Dicky 👋</h1>
 
 <p align="center">
-   <kbd>
+  <kbd>
   <a href="https://www.linkedin.com/in/dickyrhermawan"><img src="https://img.shields.io/badge/-dickyrhermawan-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="https://github.com/dickyhermawan12"><img src="https://img.shields.io/badge/-dickyhermawan12-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
   <a href="https://dickyrh.tech"><img src="https://img.shields.io/badge/-dickyrh.tech-550aff?style=flat&logoColor=white" /></a>
@@ -13,6 +13,8 @@
 <img width="500" src="https://raw.githubusercontent.com/dickyhermawan12/dickyhermawan12/master/assets/github-snake.svg" />
 </p>
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <!-- About Section -->
 ## About Me
