@@ -20,17 +20,6 @@ Interested in Cloud Computing, DevOps, InfraOps, IT Automation, and Web Developm
 
 Feel free to reach out to me anytime, seriously. 😉
 
-<!-- Tech Stack Section -->  
-## Tech Stack
-
-| **Category** | **Technologies** |
-| - | - |
-**Frontend** | [![Vue.js](https://img.shields.io/static/v1?label=&message=Vue.js&color=4FC08D&logo=vuedotjs&logoColor=FFFFFF)](https://vuejs.org/) [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/)
-**Core** | [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/) [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF)](https://nodejs.org/) [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) [![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=FFFFFF)](https://www.java.com/) [![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=php&logoColor=FFFFFF)](https://www.php.net/)
-**Cloud** | [![Azure](https://img.shields.io/static/v1?label=&message=Azure&color=0078D4&logo=microsoftazure&logoColor=FFFFFF)](https://azure.microsoft.com/) [![AWS](https://img.shields.io/static/v1?label=&message=AWS&color=232F3E&logo=amazonaws&logoColor=FFFFFF)](https://aws.amazon.com/) [![Google Cloud](https://img.shields.io/static/v1?label=&message=GCP&color=4285F4&logo=googlecloud&logoColor=FFFFFF)](https://cloud.google.com/)
-**DevOps** | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/) [![Kubernetes](https://img.shields.io/static/v1?label=&message=Kubernetes&color=326CE5&logo=kubernetes&logoColor=FFFFFF)](https://kubernetes.io/) [![Ansible](https://img.shields.io/static/v1?label=&message=Ansible&color=EE0000&logo=ansible&logoColor=FFFFFF)](https://www.ansible.com/) [![Terraform](https://img.shields.io/static/v1?label=&message=Terraform&color=7B42BC&logo=terraform&logoColor=FFFFFF)](https://www.terraform.io/)
-**Misc** | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF)](https://www.linux.org/) [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=000000&logo=markdown&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Markdown)
-
 <!-- Badges Section -->  
 ## My Badges
 
@@ -49,3 +38,14 @@ Feel free to reach out to me anytime, seriously. 😉
 [![AWS Academy Graduate - AWS Academy Cloud Architecting](https://images.credly.com/size/110x110/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png)](http://www.credly.com/badges/0f493b01-dbe8-47ba-ba7d-de0266b16680 "AWS Academy Graduate - AWS Academy Cloud Architecting")
 [![Aviatrix Certified Engineer - Multi-Cloud Network Associate](https://images.credly.com/size/110x110/images/30dea324-9ebf-4a7b-96b0-4ee602f0d5e7/aceAssociatetBadgeArtboard_1.png)](http://www.credly.com/badges/7afc212a-1c10-4e8c-8dc2-603bdc117a1d "Aviatrix Certified Engineer - Multi-Cloud Network Associate")
 <!--END_SECTION:badges-->
+
+<!-- Tech Stack Section -->  
+## Tech Stack
+
+| **Category** | **Technologies** |
+| - | - |
+**Frontend** | [![Vue.js](https://img.shields.io/static/v1?label=&message=Vue.js&color=4FC08D&logo=vuedotjs&logoColor=FFFFFF)](https://vuejs.org/) [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/)
+**Core** | [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/) [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF)](https://nodejs.org/) [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) [![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=FFFFFF)](https://www.java.com/) [![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=php&logoColor=FFFFFF)](https://www.php.net/)
+**Cloud** | [![Azure](https://img.shields.io/static/v1?label=&message=Azure&color=0078D4&logo=microsoftazure&logoColor=FFFFFF)](https://azure.microsoft.com/) [![AWS](https://img.shields.io/static/v1?label=&message=AWS&color=232F3E&logo=amazonaws&logoColor=FFFFFF)](https://aws.amazon.com/) [![Google Cloud](https://img.shields.io/static/v1?label=&message=GCP&color=4285F4&logo=googlecloud&logoColor=FFFFFF)](https://cloud.google.com/)
+**Infra** | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/) [![Kubernetes](https://img.shields.io/static/v1?label=&message=Kubernetes&color=326CE5&logo=kubernetes&logoColor=FFFFFF)](https://kubernetes.io/) [![Ansible](https://img.shields.io/static/v1?label=&message=Ansible&color=EE0000&logo=ansible&logoColor=FFFFFF)](https://www.ansible.com/) [![Terraform](https://img.shields.io/static/v1?label=&message=Terraform&color=7B42BC&logo=terraform&logoColor=FFFFFF)](https://www.terraform.io/)
+**Misc** | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF)](https://www.linux.org/) [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=000000&logo=markdown&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Markdown)
