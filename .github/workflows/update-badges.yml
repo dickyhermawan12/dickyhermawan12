@@ -16,5 +16,5 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
           COMMIT_MESSAGE: ":badge: Updates New Badges"
-          CREDLY_USER: "Dicky Rahma Hermawan"
+          CREDLY_USER: "dicky-rahma-hermawan"
           CREDLY_SORT: POPULAR
