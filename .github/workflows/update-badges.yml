@@ -15,6 +15,6 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
-          COMMIT_MESSAGE: ":badge: Updates New Badges"
+          COMMIT_MESSAGE: ":sparkles: Updates New Badges"
           CREDLY_USER: "dicky-rahma-hermawan"
           CREDLY_SORT: POPULAR
