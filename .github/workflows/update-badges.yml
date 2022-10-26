@@ -4,8 +4,7 @@ name: 📛 Update Credly badge
 on:
   workflow_dispatch: # Manual dispatch
   schedule:
-    # Runs at 0am UTC every day
-    - cron: "0 0 1/10 * *"
+    - cron: "0 17 1/10 * *" # Runs at 24:00 WIB on the 1, 11, 21, and 31st of every month
 jobs:
   update-readme:
     name: Update Readme with badges
