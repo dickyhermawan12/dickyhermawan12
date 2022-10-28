@@ -20,7 +20,7 @@ Interested in Cloud Computing, DevOps, Cloud Native, and Web Development. ☁
 
 Feel free to reach out to me anytime, seriously. 😉
 
-If you're considering using DigitalOcean, just click the button below ⬇
+If you're considering using DigitalOcean, click the button below to obtain free credits ⬇
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=b99906998a15&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
