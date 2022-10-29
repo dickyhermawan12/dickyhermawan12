@@ -16,7 +16,7 @@
 <!-- About Section -->
 ## About Me
 
-Interested in Cloud Computing, DevOps, Cloud Native, and Web Development. ☁
+Interested in Cloud Engineering, DevOps, Cloud Native, and Web Development. ☁
 
 Feel free to reach out to me anytime, seriously. 😉
 
