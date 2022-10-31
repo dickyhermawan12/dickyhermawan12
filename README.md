@@ -40,7 +40,7 @@ If you're considering using DigitalOcean, click the button below to obtain free 
 [![CCNA: Enterprise Networking, Security, and Automation](https://images.credly.com/size/110x110/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png)](http://www.credly.com/badges/4eddb1ab-562e-4b28-b1ec-066a028db601 "CCNA: Enterprise Networking, Security, and Automation")
 [![(ISC)² Candidate](https://images.credly.com/size/110x110/images/3829db50-49a8-4f30-85c5-639ffc4a7b2f/image.png)](http://www.credly.com/badges/f573ef98-1839-45e5-ba96-e61d20b993f3 "(ISC)² Candidate")
 [![AWS Academy Graduate - AWS Academy Cloud Architecting](https://images.credly.com/size/110x110/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png)](http://www.credly.com/badges/0f493b01-dbe8-47ba-ba7d-de0266b16680 "AWS Academy Graduate - AWS Academy Cloud Architecting")
-[![Aviatrix Certified Engineer - Multi-Cloud Network Associate](https://images.credly.com/size/110x110/images/30dea324-9ebf-4a7b-96b0-4ee602f0d5e7/aceAssociatetBadgeArtboard_1.png)](http://www.credly.com/badges/7afc212a-1c10-4e8c-8dc2-603bdc117a1d "Aviatrix Certified Engineer - Multi-Cloud Network Associate")
+[![Aviatrix Certified Engineer - Multicloud Network Associate](https://images.credly.com/size/110x110/images/30dea324-9ebf-4a7b-96b0-4ee602f0d5e7/aceAssociatetBadgeArtboard_1.png)](http://www.credly.com/badges/7afc212a-1c10-4e8c-8dc2-603bdc117a1d "Aviatrix Certified Engineer - Multicloud Network Associate")
 <!--END_SECTION:badges-->
 
 <!-- Tech Stack Section -->  
