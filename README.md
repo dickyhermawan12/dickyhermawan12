@@ -9,7 +9,7 @@
 </p>
   
 <p align="center">
-<img width="500" src="https://raw.githubusercontent.com/dickyhermawan12/dickyhermawan12/master/assets/github-snake.svg" />
+<img width="500" src="https://raw.githubusercontent.com/dickyhermawan12/dickyhermawan12/master/assets/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <!-- About Section -->
