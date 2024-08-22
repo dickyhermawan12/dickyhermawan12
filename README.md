@@ -1,5 +1,3 @@
-<h1 align="center">Hi there, I'm Dicky 👋</h1>
-
 <p align="center">
   <kbd>
   <a href="https://www.linkedin.com/in/dickyrhermawan"><img src="https://img.shields.io/badge/-dickyrhermawan-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
@@ -15,13 +13,7 @@
 <!-- About Section -->
 ## About Me
 
-Interested in Cloud Engineering, DevOps, Cloud Native, and Web Development. ☁
-
-Feel free to reach out to me anytime, seriously. 😉
-
-If you're considering using DigitalOcean, click the button below to obtain free credits ⬇
-
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=b99906998a15&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+Cloud Engineering, DevOps, Cloud Native, and Web Development. ☁
 
 <!-- Badges Section -->  
 ## My Badges
